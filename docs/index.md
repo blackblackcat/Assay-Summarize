@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+## 简介
 
-You can use the [editor on GitHub](https://github.com/blackblackcat/Assay-Summarize/edit/master/docs/index.md) to maintain and preview the content for your website in Markdown files.
+本页由GitHub Pages实现。具体可见 [editor on GitHub](https://github.com/blackblackcat/Assay-Summarize/edit/master/docs/index.md) ，使用markerdown语法。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+本页主要记录个人实现期间的数据和得到的结论。后续会逐渐补充，目前主要为：实验新技术（也是目前感兴趣的技术栈）
 
-### Markdown
+### 实验目的
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+先明确目的，避免跑偏。本次主要是熟悉业界常用新技术，重过程，由于在大公司搬砖，分工明确，对部分技术了解需要额外的补充。
 
 ```markdown
-Syntax highlighted code block
+以下列出感兴趣的技术方向和实验计划
+- HTML/JS/CSS最新框架和动效
+- 服务器安装、部署维护，带软件包打包
+- DB（重点是非关系型数据库）
+- 消息队列和缓存：kafka和redis使用
+- 网络通信
+- 额外项：机器对话系统
 
-# Header 1
-## Header 2
-### Header 3
+### 当前硬件资源
 
-- Bulleted
-- List
+手欠买了一堆硬件，算“废物”利用吧。有需要的话继续手欠买买买。
 
-1. Numbered
-2. List
+- 华为云上一台带公网IP的包年云服务器1U2G。
+- 本地NAS一台
+- PC、笔记本、平板、测试手机N台
 
-**Bold** and _Italic_ and `Code` text
+### 进展
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/blackblackcat/Assay-Summarize/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+明确目的，更新进展。
